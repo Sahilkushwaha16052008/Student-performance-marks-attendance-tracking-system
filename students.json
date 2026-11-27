@@ -1,0 +1,67 @@
+[
+    {
+        "roll": "1",
+        "name": "sahil",
+        "marks": {
+            "Maths": 92.0,
+            "Physics": 90.0,
+            "Chemistry": 89.0,
+            "English": 88.0,
+            "Computer Science": 98.0
+        },
+        "attended": 100,
+        "total": 120
+    },
+    {
+        "roll": "2",
+        "name": "Aryan",
+        "marks": {
+            "Maths": 90.0,
+            "Physics": 88.0,
+            "Chemistry": 79.0,
+            "English": 87.0,
+            "Computer Science": 89.0
+        },
+        "attended": 59,
+        "total": 80
+    },
+    {
+        "roll": "3",
+        "name": "Shorya",
+        "marks": {
+            "Maths": 80.0,
+            "Physics": 78.0,
+            "Chemistry": 88.0,
+            "English": 90.0,
+            "Computer Science": 88.0
+        },
+        "attended": 90,
+        "total": 120
+    },
+    {
+        "roll": "12",
+        "name": "rama",
+        "marks": {
+            "Maths": 85.0,
+            "Physics": 91.0,
+            "Chemistry": 84.0,
+            "English": 70.0,
+            "Computer Science": 92.0
+        },
+        "attended": 86,
+        "total": 120
+    },
+    {
+        "roll": "4",
+        "name": "Arshad",
+        "marks": {
+            "Maths": 56.0,
+            "Physics": 23.0,
+            "Chemistry": 21.0,
+            "English": 33.0,
+            "Computer Science": 14.0
+        },
+        "attended": 39,
+        "total": 120
+    }
+]
